@@ -1,0 +1,7 @@
+cd desktop
+
+javac AFD_GMS.java
+
+java AFD_GMS
+
+java AFD_GMS AFD.txt
